@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/java-client/AutoItX4Java.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/java-client/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/java-client/java-client-6.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jacob-1.18/jacob.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/htmlunit-2.18.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/jetty-io-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/jetty-util-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/netty-3.5.2.Final.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/selenium-api-2.48.2.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/selenium-chrome-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/selenium-edge-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/selenium-firefox-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/selenium-htmlunit-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/selenium-ie-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/selenium-java-2.48.2.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/selenium-leg-rc-2.48.2.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/selenium-remote-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/selenium-safari-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/selenium-support-2.48.2.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/webbit-0.4.14.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/websocket-api-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/websocket-client-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/websocket-common-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/winium-webdriver-0.1.0-1.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/aNkiT/jar-files/jar_files/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NEUROEQUILIBRIUM/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.6.0/selenium-remote-driver-4.6.0.jar" sourcepath="C:/Users/NEUROEQUILIBRIUM/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.6.0/selenium-remote-driver-4.6.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-remote-driver"/>
+			<attribute name="maven.version" value="4.6.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
