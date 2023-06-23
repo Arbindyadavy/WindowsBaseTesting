@@ -21,8 +21,8 @@ public class NewTest2 {
 
 	  
 
-	  //Runtime.getRuntime().exec("C:\\Program Files (x86)\\NeuroEquilibrium\\Dashboard\\Dashboard.exe");
-	  auto.run("C:\\Program Files (x86)\\NeuroEquilibrium\\Dashboard\\Dashboard.exe");
+	  Runtime.getRuntime().exec("C:\\Program Files (x86)\\NeuroEquilibrium\\Dashboard\\Dashboard.exe");
+	//  auto.run("C:\\Program Files (x86)\\NeuroEquilibrium\\Dashboard\\Dashboard.exe");
 	    auto.sleep(3000);
 		auto.ControlSetText("NeuroEquilibrium Dashboard", "", "[CLASS:WindowsForms10.EDIT.app.0.3ce0bb8_r18_ad1; INSTANCE:1]", "gbank34240");
 		
